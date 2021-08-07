@@ -1,0 +1,25 @@
+{
+    "FileVersion" : 1,
+    "Version" : 0.0.1,
+    "VersionName" : "0.0.1",
+    "FriendlyName" : "UObject Example Plugin",
+    "Description" : "a revive of the old farming mod",
+    "Category" : "none",
+    "CreatedBy" : "na",
+    "CreatedByURL" : "",
+    "DocsURL" : "",
+    "MarketplaceURL" : "",
+    "SupportURL" : "",
+    "EnabledByDefault" : true,
+    "CanContainContent" : false,
+    "IsBetaVersion" : true,
+    "Installed" : false,
+    "Modules" :
+    [
+        {
+            "Name" : "UObjectPlugin",
+            "Type" : "Developer",
+            "LoadingPhase" : "Default"
+        }
+    ]
+}
