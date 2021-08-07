@@ -1,6 +1,6 @@
 {
     "FileVersion" : 1,
-    "Version" : 0.0.1,
+    "Version" : 1,
     "VersionName" : "0.0.1",
     "FriendlyName" : "UObject Example Plugin",
     "Description" : "a revive of the old farming mod",
